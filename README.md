@@ -1,6 +1,6 @@
 # WnCC-Assignment
 
-**This is the solution to the problem which was asked in the WnCC interview task.**
+**This is the solution to the problem which was asked in the WnCC interview task.** <br/><br/>
 **Task:** Schedule.txt contains the start time and ending time of different sessions of
       WnCC’s Blockchain Bootcamp. One cannot attend two sessions if they are
       running at the same time. Your program should read the data from the .txt file for
