@@ -10,6 +10,9 @@
       person can attend.
       About the data: The data in the file is in the format: ABCD XX Y, where ABCD
       represents session name, XX represents the start time, and Y represents the
-      duration in hours.
+      duration in hours.<br/><br/>
+      
+**Libraries:** Basic File Handling libraries were used to solve the problem. <br/>
+**Algorithm:** I used an algorithm to count all the one hour sessions then tried to fit the other 2 hour sessions in the slot between.
       
  
